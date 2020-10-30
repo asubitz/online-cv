@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Adrian Subitz
-    tagline: Founder<br> Solutions Architect<br> Senior Full Stack Developer<br> Microsoft Solutions Consultant<br>
+    tagline: Senior Consultant<br> Founder and Manager
     avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adrian@samplus.tech
+    email: adrian@samplus.com
     phone: +40 762 301 829
-    website: samplus.tech #do not add http://
+    website: samplus.com #do not add http://
     linkedin: SAMPLUS
     github: samplustech
     telegram: # add your nickname without '@' sign
@@ -45,25 +45,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Sr. Full Stack Software Developer.<br>
+      Experienced Software Development Manager.<br>
       Involved in over 7 Enterprise Applications. 
       Technology stack mainly consists of .NET on the backend, Angular (or plain JS) on the frontend. 
-      I have experience with relational databases like SQL Server but also with CosmosDb. <br />
-      In the last approximately 2 years I worked on Cloud (Azure) Applications.
+      I have experience with relational databases like SQL Server.<br />
+      Over 2 years of experience in developing Enterprise Applications, which have Architectures tailored for Microsoft Azure.<br>
 education:
     - degree: BSc in Computer Science
       university: University of Craiova<br> Science College<br> Department of Informatics
       time: 2015 - 2018
       details: |
 experiences:
-    - role: Founder, Sr. Full Stack Developer, <br>Solutions Architect <br>and Microsoft Solutions Consultant
+    - role: Founder and Senior Consultant
       time: 2020 - Present
-      company: SAMPLUS TECH
-      link: https://samplus.tech
+      company: Samplus
+      link: https://samplus.com
       details: |
         Founded a Custom Software Development and Business Consulting Company that provides Consulting and Technology Services.<br>
-        Responsible for the architecture of all the Clients projects. All solutions have architectures tailored for Azure.
-    - role: Senior Staff Engineer / Lead Developer
+        Responsible for the architecture of all the Clients projects (custom software development), which are tailored for Microsoft Azure.<br>
+        Focused on delivering projects according to the quality standards agreed with our clients.
+    - role: Sr. Full Stack Developer - Team Leader
       time: 2020 - Present
       company: nagarro
       link: https://www.nagarro.com
@@ -77,7 +78,12 @@ experiences:
             - Risks management and mitigation;<br>
             - Technical coordination of a development team, which handles a component/sub-system;<br>
             - Client interaction.
-    - role: Senior Full Stack Developer / Lead Developer
+
+
+
+
+            
+    - role: Sr. Full Stack Developer - Lead Developer
       time: 2019 - 2020
       company: iQuest Group
       link: https://www.iquestgroup.com
@@ -88,7 +94,7 @@ experiences:
           - Effort estimates;
           - Risks management and mitigation;
           - Technical coordination of a development team, which handles a component/sub-system;
-          - Client interaction.<br><br><br><br>
+          - Client interaction.
     - role: Full Stack Developer
       time: 2017 - 2019
       company: iQuest Group
