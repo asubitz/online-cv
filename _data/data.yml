@@ -56,7 +56,7 @@ education:
       time: 2015 - 2018
       details: |
 experiences:
-    - role: Founder, Sr. Full Stack Developer, Solutions Architect <br>and Microsoft Solutions Consultant
+    - role: Founder, Sr. Full Stack Developer, <br>Solutions Architect <br>and Microsoft Solutions Consultant
       time: 2020 - Present
       company: SAMPLUS TECH
       link: https://samplus.tech
@@ -88,7 +88,7 @@ experiences:
           - Effort estimates;
           - Risks management and mitigation;
           - Technical coordination of a development team, which handles a component/sub-system;
-          - Client interaction.
+          - Client interaction.<br><br><br><br>
     - role: Full Stack Developer
       time: 2017 - 2019
       company: iQuest Group
