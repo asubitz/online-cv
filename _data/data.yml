@@ -45,11 +45,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Development Manager.<br>
-      Involved in over 7 Enterprise Applications. 
-      Technology stack mainly consists of .NET on the backend, Angular (or plain JS) on the frontend. 
-      I have experience with relational databases like SQL Server.<br />
-      Over 2 years of experience in developing Enterprise Applications, which have Architectures tailored for Microsoft Azure.<br>
+      I work as a consultant and help businesses develop their products.<br>
+
+      The tech stack of choice is Microsoft Technologies (C#, .NET) with a JS Framework on the frontend (usually Angular). I am also passionate about automating CI, CD with Azure DevOps (Azure Pipelines).<br>
+
+      Responsible for the architecture of all our client's projects (custom software development), which are tailored for Microsoft Azure.<br>
+
+      I am continuously looking for new challenges and self-improvement.<br>
+
+      Let's connect!<br>
 education:
     - degree: BSc in Computer Science
       university: University of Craiova<br> Science College<br> Department of Informatics
