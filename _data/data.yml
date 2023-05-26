@@ -202,6 +202,12 @@ skills:
       - name: ASP.NET / ASP.NET Core
         level: 90%
 
+      - name: .NET Core Authorization
+        level: 90%  
+      
+      - name: ASP.NET MVC
+        level: 75%  
+
       - name: RESTful WebServices
         level: 80%       
 
@@ -226,8 +232,14 @@ skills:
       - name: Azure DevOps
         level: 75%
 
+      - name: Azure AD B2C
+        level: 90%  
+
       - name: PowerShell
-        level: 30%  
+        level: 30%
+
+      - name: Identity Server
+        level: 50%      
 
 footer: >
     
