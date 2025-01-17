@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Adrian Subitz
-    tagline: Full stack developer <br> Consultant / Freelancer / Contractor <br> .NET Developer | Angular | Cloud (Azure) enthusiast
-    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Full stack developer <br> Software Architect <br> Technical Leader <br> Consultant / Freelancer / Contractor <br> .NET Developer | Angular | Cloud (Azure) enthusiast
+    avatar: avatar2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: adrian@samplus.com
@@ -45,147 +45,114 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I work as a consultant and help businesses develop their products.<br>
+      I am a technical professional with over 8 years of experience designing, developing, and leading high-performance web applications using .NET, Angular, SQL Server, and Microsoft Azure.<br>
 
-      The tech stack of choice is Microsoft Technologies (C#, .NET) with a JS Framework on the frontend (usually Angular). I am also passionate about automating CI, CD with Azure DevOps (Azure Pipelines).<br>
+      Throughout my career, I have excelled in various roles, including Full-stack Developer, Technical Lead, and Software Architect. I have a proven track record of managing deployments in both on-premise and cloud environments, overseeing developer teams, and ensuring solutions align with client requirements and expectations.<br>
 
-      Responsible for the architecture of all our client's projects (custom software development), which are tailored for Microsoft Azure.<br>
+      With a strong focus on cloud development, I specialize in Microsoft technologies (C# and .NET) combined with Angular for frontend development. I am committed to automating continuous integration and delivery processes using Azure DevOps (Azure Pipelines) and have substantial experience architecting custom software solutions optimized for Microsoft Azure to enhance scalability and performance.<br>
 
       I am continuously looking for new challenges and self-improvement.<br>
 
       Let's connect!<br>
 education:
-    - degree: BSc in Computer Science
-      university: University of Craiova<br> Science College<br> Department of Informatics
+    - degree: BSc in Informatics
+      university: University of Craiova<br> Faculty of Sciences<br> Department of Informatics
       time: 2015 - 2018
       details: |
+
 experiences:
     - role: Founder and Senior Consultant
       time: 2020 - Present
-      company: Samplus
+      company: SAMPLUS
       link: https://samplus.com
       details: |
-        Offering consultancy and software development services with the aforementioned technologies.
-    - role: Sr. Full Stack Developer - Team Leader
-      time: 2020 - Present
-      company: nagarro
+        Offering consultancy and software development services, leveraging my experience in .NET, Angular, SQL Server, and Microsoft Azure. My expertise includes full-stack development, DevOps automation, and designing scalable, cloud-optimized solutions to meet diverse client needs.
+    
+    - role: Software Architect
+      time: 2024 - Present
+      company: NAGARRO
       link: https://www.nagarro.com
       details: |
-        Senior Full Stack Developer and acting Team Leader 
-        in an organization with over 15000 employees and in a team with over 20 members.<br>
-          Responsibilities:<br>
-            - End to end delivery of components and sub-systems on the project level;<br>
-            - Technical recommendation, comparison analysis and assessment activities for a component/sub-system;<br>
-            - Effort estimates;<br>
-            - Risks management and mitigation;<br>
-            - Technical coordination of a development team, which handles a component/sub-system;<br>
-            - Client interaction.
-
-
-
-
-            
-    - role: Sr. Full Stack Developer - Lead Developer
-      time: 2019 - 2020
-      company: iQuest Group
-      link: https://www.iquestgroup.com
+        As a Software Architect, I collaborated with a leading provider of business management software to enhance their Legal Case Management System. By implementing autoscaling best practices, improving system stability, and streamlining the onboarding process with comprehensive documentation, I successfully addressed key challenges and optimized the system for better performance.<br>
+    
+    - role: Technology Specialist
+      time: 2020 - 2024
+      company: NAGARRO
+      link: https://www.nagarro.com
       details: |
-        Responsibilities:
-          - End to end delivery of components and sub-systems on the project level;
-          - Technical recommendation, comparison analysis and assessment activities for a component/sub-system;
-          - Effort estimates;
-          - Risks management and mitigation;
-          - Technical coordination of a development team, which handles a component/sub-system;
-          - Client interaction.
+        Led the development of a web application, utilizing .NET 6 for the backend, Angular 13 for the frontend, and SQL Server for the database. Managed deployment both on-premise and in the cloud (Azure). Served as the team leader for a group of four developers and was responsible for the solution's overall architecture.<br>
+  
+    - role: Sr. Full Stack Developer - Acting Lead Developer
+      time: 2019 - 2020
+      company: NAGARRO
+      link: https://www.nagarro.com
+      details: |
+        Served as Team Leader for a 20-person team developing a cloud solution, utilizing .NET Framework for backend development, Angular for frontend, and Azure SQL Database for data storage. Integrated multiple Azure services, including Azure AD, Azure Cache for Redis, App Service, Key Vault, Storage account, Azure Functions, and Application Insights.<br>
+
     - role: Full Stack Developer
       time: 2017 - 2019
-      company: iQuest Group
-      link: https://www.iquestgroup.com
+      company: NAGARRO
+      link: https://www.nagarro.com
       details: |
         Responsibilities:
           - End to end delivery of tasks;
           - Clear task status	
           - Effort estimates;
           - Technical coordination of a development team, which handles a component/sub-system.
+
     - role: Jr. Full Stack Developer
       time: 2016 - 2017
       company: Star Storage
       link: https://star-storage.ro
       details: |
-        Only responsibility as a junior developer was the delivery of assigned tasks.
+        Contributed to the development of two key products at the company, successfully completing assigned tasks as a Junior Developer.
+
 projects:
     title: Projects
     intro: >
       Some of the projects I've worked on:
     assignments:
-      - title: <strong>Deal Advisory Management Application</strong>
+      - title: <strong>Legal Case Management System</strong>
         link: 
         tagline: "
-        Involved in the full life cycle of a project, with responsibilities to deliver different subsystems of the project.<br>
-        My role was to understand the complexity of the business and lead different teams to design, implement,
-        integrate and deliver each subsystem.<br>
-        I was involved in multiple workshops (on site and remote) with all the stakeholders to 
-        understand the business and advise them from a technical perspective."
-
-      - title: <strong>Roles and Permissions Management System</strong>
-        link: 
-        tagline: "
-        I was involved in designing a solution for managing the roles and permissions in a big 
-        application with thousands of active users.<br>
+        <br>Project involved collaborating with a client with a successful legal case management system but faced several significant challenges:<br>
+        -	High infrastructure costs: the cloud infrastructure did not leverage best practices in autoscaling, resulting in elevated costs<br>
+        -	Delivery and testing difficulties: struggles in delivering new features arose due to the lack of automated end-to-end testing, leading to system instability and delays in testing new features and fixing bugs promptly<br>
+        -	Lack of documentation: the absence of proper documentation slowed down the onboarding process for new team members, making it difficult and frustrating<br>
         Responsibilities:<br>
-          - Understand the business objectives for this subsystem;<br>
-          - Architecture for the whole subsystem;<br>
-          - Analysis and Design of how this mechanism will integrate with the rest of the Application;<br>
-          - Implementation, Testing and Support;<br>
-          - Integration and Delivery;<br>
-          - Documentation.<br>"
+        -	Analyzed and implemented strategies for lowering infrastructure costs by adopting autoscaling best practices<br>
+        -	Improved the application's stability and responsiveness to enhance the client experience<br>
+        -	Supported the team in adopting more frequent and agile delivery methods to expedite feature releases and bug fixes<br>
+        -	Developed comprehensive documentation to streamline the onboarding process for new colleagues and documented all solutions delivered<br>"
 
-      - title: <strong>Integration with external services. Cloud Infrastructure Services</strong>
+      - title: <strong>Manufacturing Management, Maintenance, and Monitoring Platform</strong>
         link: 
         tagline: "
-        Involved in Cloud architecture and service integration for different business products.<br>
-        My role was to create an IaaS using multiple Azure services like:<br>
-          - Azure Web Applications;<br>
-          - Authentification with Azure Active Directory;<br>
-          - Authentification with Azure Active Directory B2C;<br>
-          - Azure Cache for Redis;<br>
-          - Azure Key Vault;<br>
-          - Azure Blob Storage;<br>
-          - Azure Web Jobs;<br>
-          - Azure Logic Apps;<br>
-          - Azure SQL Database<br>
-          - Azure pipelines (CI/CD).
-        "
+        <br>Project involved developing software used in mass production plants. The solution was designed to configure, manage, maintain, and monitor all aspects of the production lifecycle.<br>
+        Responsibilities:<br>
+        -	Designed the architecture for the backend, frontend, and testing solutions<br>
+        -	Coordinated the development team throughout the development lifecycle of these components<br>
+        -	Elaborated and maintained documentation for the delivered components<br>
+        - Actively engaged in SAFe ceremonies, including Program Increment (PI) Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, to promote effective team collaboration and project alignment<br>"
 
-      - title: <strong>Custom document management solution</strong>
+      - title: <strong>Document Management Solution and Instrument Simulator</strong>
         link: 
         tagline: "
-        Development of a custom document management solution that integrates with an existent service of a client that triggered the document saving and indexing.<br>
-        Features:<br>
-          - Modern web interface<br>
-          - Storing and indexing documents<br>
-          - Advanced Full-Text Search Capabilities<br>
-          Responsibilities:<br>
-          - Understand the business requirements<br>
-          - Integrate Solr in the solution for indexing documents.<br>
-          - Develop long pooling mechanism to receive large documents, save them as blobs and in parallel index them in Solr<br>
-          - Integrate system search to leverage Enterprise searching of Solr<br>
-          - Develop a web client with responsive modern UI in Angular<br>
-          - Documentation<br>"
+        <br>Project involved developing a document management solution and an instrument simulator for a multinational healthcare company. The document management solution was a web application, with the backend developed using .NET and the frontend using Angular. It integrated with Apache Solr for document indexing. The Instrument Simulator was a desktop application built with WPF and .NET.<br>
+        Responsibilities:<br>
+        -	Delivered both solutions end-to-end<br>
+        -	Collaborated with the development and business teams throughout the development lifecycle of the applications<br>
+        -	Elaborated and maintained documentation for the delivered components<br>"
 
-      - title: <strong>Medical instruments simulators</strong>
+      - title: <strong>Multi-Channel Cost Optimization Solution</strong>
         link: 
         tagline: "
-        Simulators for the medical devices. These simulators could simulate the work done by the actual devices.<br>
-        Responsibilities:<br> 
-          - Understand the business requirements;<br> 
-          - Analysis and Design;<br> 
-          - Architecture of the entire application;<br> 
-          - Implementation, Testing and Support;<br> 
-          - Integration and Delivery;<br> 
-          - Generate the installer using WIX Toolset;<br> 
-          - Documentation.<br> 
-        "
+        <br>Project involved working on an innovative multi-channel solution (in-branch, mobile, and from home) designed to reduce costs and time for customer and employee interactions. The solution utilized form recognition, document composition, and digital and biometric signatures.<br>
+        Responsibilities:<br>
+        -	Delivered assigned tasks end-to-end<br>
+        -	Collaborated with the development and business teams throughout the development lifecycle of the application<br>
+        -	Elaborated and maintained documentation for the delivered functionalities<br>"
+
 skills:
     title: Skills &amp; Proficiency
 
